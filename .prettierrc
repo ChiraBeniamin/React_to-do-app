@@ -1,0 +1,6 @@
+
+{
+"endOfLine":"auto",
+"semicolon": [true,"always"],
+"semi":true
+}
